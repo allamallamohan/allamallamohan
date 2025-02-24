@@ -1,7 +1,8 @@
 👨‍💻 About Me:
-o 👋 Hi, I’m Ram Mohan Kumar Allamalla, presently working as a Senior Process Engineer at ComputerVision Technologies.
 
-o 🖥️ I’ve 5 years of experience in the IT industry, out of which 3 years are in Data Integration-Boomi, and 2 years are in Technology Operations & Manual Testing.
+o 👋 Hi, I’m Ram Mohan Kumar Allamalla, presently working as a Senior Software Engineer at ComputerVision Technologies Pvt Ltd.
+
+o 🖥️ I’ve 7 years of experience in the IT industry, out of which 4 years are in Data Integration-Boomi, and 2-years and 8 Months are in Technology Operations & Manual Testing.
 
 o 🧮 I also hold some level of professional proficiency in Python, Machine Learning, PowerBI, SQL, and Groovy.
 
