@@ -1,8 +1,9 @@
-👨‍💻 About Me:
+Dedicated and disciplined Software professional and looking forward to associate myself within a growth-oriented organization where there is an opportunity to share, contribute and upgrade my knowledge with full dedication and the strong aspiration for development of self as well as the organization serve.
 
-o 👋 Hi, I’m Ram Mohan Kumar Allamalla, presently working as a Senior Software Engineer at ComputerVision Technologies Pvt Ltd.
+o 👨‍💻 presently working as a Senior Software Engineer at ComputerVision Technologies Pvt Ltd.
 
-o 🖥️ I’ve 7 years of experience in the IT industry, out of which 4 years are in Data Integration-Boomi, and 2-years and 8 Months are in Technology Operations & Manual Testing.
+o 🖥️ I’ve 7 years of experience in the IT industry, out of which 4 years are in Data Process 
+ and Integrations and 2+years are in Technology Operations & Manual Testing.
 
 o 🧮 I also hold some level of professional proficiency in Python, Machine Learning, PowerBI, SQL, and Groovy.
 
